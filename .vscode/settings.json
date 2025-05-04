@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Monokrom.sln"
+    "dotnet.defaultSolution": "monokrom.sln"
 }
